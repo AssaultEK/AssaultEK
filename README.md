@@ -2,12 +2,6 @@
 i got nothin but an account that experiments stuff on some repositories<br />
 and i also work on mods; hook me up, you cant because my social media aint linked!!!
 
-> [!NOTE]
-> I will only work on mods if:
-> - _The mod is done in moderate amount of effort._
-
-> _(if for some reason you're ever gonna hire someone from github for fnf lol)_
-
 <!--
 **FNFVacks/FNFVacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
