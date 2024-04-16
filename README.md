@@ -1,6 +1,5 @@
 ### FNFVacks (aka AssaultEK)
 i got nothin but an account that experiments stuff on some repositories<br />
-and i also work on mods; hook me up, you cant because my social media aint linked!!!
 
 <!--
 **FNFVacks/FNFVacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
