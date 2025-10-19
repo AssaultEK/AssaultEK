@@ -1,5 +1,5 @@
-### FNFVacks (aka AssaultEK)
-i got nothin but an account that experiments stuff on some repositories<br />
+## Introduction
+i forgor
 
 <!--
 **FNFVacks/FNFVacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
